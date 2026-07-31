@@ -1,4 +1,4 @@
-CT449: Phát triển ứng dụng Web - Backend 2 Học kỳ 3, Năm học: 2026-2027
+CT449: Phát triển ứng dụng Web - Backend Extend Học kỳ 3, Năm học: 2026-2027
 
 Họ tên: Nguyễn Tài Đức
 
